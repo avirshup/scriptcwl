@@ -12,6 +12,8 @@
 dist
 .cache
 
+.tox
+
 bower_components
 node_modules
 
